@@ -56,7 +56,7 @@ PORT=5000
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/prashant-sagar-shakya/Brainwave.git
+git clone https://github.com/abhishek7112001/AWS-Debugger.git
 cd Brainwave
 ```
 
